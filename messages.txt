@@ -1,0 +1,2 @@
+version:1 destination:100 location:10 TTL:100 cmd:send msg:"hello world how are you today?" time:1228 date:12-1-1 version:1 destination:1001 location:20 TTL:300 cmd:send  time:1228 date:12-1-1
+version:2 destination:100 location:10 TTL:100 cmd:send msg:"hello world how are you today?" time:1228 date:12-1-1 version:1 destination:1001 location:20 TTL:300 cmd:send  time:1228 date:12-1-1
